@@ -1,0 +1,2 @@
+# cc-homework-callbacks_enumerations_JavaScript
+You have been given a project with two models, Traveller and Journey, and their corresponding test files.  A Journey has:  a start location an end location a mode of transport a distance in miles A Traveller has:  an array of Journeys You should write the code to make the Traveller tests pass, without modifying the spec files. You should use JavaScript's built-in enumerator methods, only using forEach if you can't find a way to use one of the other more appropriate methods.
